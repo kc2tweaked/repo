@@ -1,0 +1,24 @@
+<package>
+	<id>cn.fork.cctech.kancolle.command</id>
+	<name>iKanColleCommand CHS Version</name>
+	<version>2.2</version>
+	<compatibility>
+		<firmware>
+			<miniOS>11.4</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+	</dependencies>
+	<shortDescription>KanColle iOS Client Chinese Simplified Version.</shortDescription>
+	<descriptionlist>
+		<description>KanColle iOS Client Chinese Simplified Version.</description>
+	</descriptionlist>
+	<screenshots>		
+		<screenshot>
+		</screenshot>		
+	</screenshots>
+	<changelog>
+	</changelog>
+	<links>
+	</links>
+</package>
