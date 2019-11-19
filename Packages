@@ -3,16 +3,16 @@ Version: 2.2
 Architecture: iphoneos-arm
 Maintainer: Ming Chang
 Filename: ./debs/cn.fork.cctech.kancolle.command.deb
-Size: 50875152
-MD5sum: c2f8dcf82b1c82e33cecef5621f07131
-SHA1: 413c7fa6126fe34d06df87545581970d43a71a10
-SHA256: 719b4433a3e3750ddec94375108aa9203220e850654af927c16025cf984138ba
+Size: 50867028
+MD5sum: b3a3ce294fe968154ca230505fdcb2b2
+SHA1: e86ed473b6e50d92e2f41b26e93640cb39fbd4f8
+SHA256: bf5991abfd02958b8b05282824521f8f546b874544edf492166f0edb53760c9f
 Section: Tweak
 Homepage: https://kc2tweaked.github.io
 Description: KanColle iOS Client Chinese Simplified Version.
 Author: Ming Chang
 Depiction: https://kc2tweaked.github.io/repo/depictions/?p=cn.fork.cctech.kancolle.command
-Name: iKanColleCommand CHS
+Name: iKanColleCommand CHS Version
 Sponsor: KC2Tweaked
 
 Package: tw.cctech.kancolle.command
@@ -20,16 +20,16 @@ Version: 2.2
 Architecture: iphoneos-arm
 Maintainer: Ming Chang
 Filename: ./debs/tw.cctech.kancolle.command.deb
-Size: 50882492
-MD5sum: 69fea604cc7fb549f61234392366d5d0
-SHA1: 39e66b5842411647012062de5b48e46e8d204748
-SHA256: 2c360b6a58f2efaccb8a4a8a289cbaad53dedff6bf42623d0ee3f655539af2dd
+Size: 50868152
+MD5sum: 0dd0b757ebfd03163b0cb4bbef576514
+SHA1: 83093655c62a3e7ee118d7abb597cbf4710d89f4
+SHA256: 0ec0bd9e72f3b2af282b4c5a5138967491543fc47cbc6dd199b22ce0fe3a16c6
 Section: Tweak
 Homepage: https://kc2tweaked.github.io
 Description: KanColle iOS Client Chinese Traditional Version.
 Author: Ming Chang
 Depiction: https://kc2tweaked.github.io/repo/depictions/?p=tw.cctech.kancolle.command
-Name: iKanColleCommand CHT
+Name: iKanColleCommand CHT Version
 Sponsor: KC2Tweaked
 
 Package: tw.cctech.kancolle.command.beta
@@ -37,15 +37,15 @@ Version: 2.3Beta1
 Architecture: iphoneos-arm
 Maintainer: Ming Chang
 Filename: ./debs/tw.cctech.kancolle.command.beta.deb
-Size: 50868140
-MD5sum: 35582c9ce160c3f0c6e2775214909a9b
-SHA1: 666c75f7661f74fd3f887419a10d81d7ef471ddc
-SHA256: 5008d3d5d63572a27aafa4c541fb2e97232ff7d58de75f85b37b43d153de853a
+Size: 50871764
+MD5sum: 8b56eb75d3b441ae5cbfffb94cd754a2
+SHA1: 53893763574df76c033cab85add4b6cb33540dea
+SHA256: e20eb386b68a52c7b9b2eb904ac81d55d8d56d8f3b6c214ab95d2b9a807d151c
 Section: Tweak
 Homepage: https://kc2tweaked.github.io
 Description: KanColle iOS Client Chinese Traditional Version.
 Author: Ming Chang
 Depiction: https://kc2tweaked.github.io/repo/depictions/?p=tw.cctech.kancolle.command.beta
-Name: iKanColleCommand CHT (Beta)
+Name: iKanColleCommand CHT Version (Beta)
 Sponsor: KC2Tweaked
 
