@@ -12,7 +12,7 @@ Homepage: https://kc2tweaked.github.io
 Description: KanColle iOS Client Chinese Simplified Version.
 Author: Ming Chang
 Depiction: https://kc2tweaked.github.io/repo/depictions/?p=cn.fork.cctech.kancolle.command
-Name: iKanColleCommand CHS Version
+Name: iKanColleCommand CHS
 Sponsor: KC2Tweaked
 
 Package: tw.cctech.kancolle.command
@@ -29,7 +29,7 @@ Homepage: https://kc2tweaked.github.io
 Description: KanColle iOS Client Chinese Traditional Version.
 Author: Ming Chang
 Depiction: https://kc2tweaked.github.io/repo/depictions/?p=tw.cctech.kancolle.command
-Name: iKanColleCommand CHT Version
+Name: iKanColleCommand CHT
 Sponsor: KC2Tweaked
 
 Package: tw.cctech.kancolle.command.beta
@@ -46,6 +46,6 @@ Homepage: https://kc2tweaked.github.io
 Description: KanColle iOS Client Chinese Traditional Version.
 Author: Ming Chang
 Depiction: https://kc2tweaked.github.io/repo/depictions/?p=tw.cctech.kancolle.command.beta
-Name: iKanColleCommand CHT Version (Beta)
+Name: iKanColleCommand CHT (Beta)
 Sponsor: KC2Tweaked
 
