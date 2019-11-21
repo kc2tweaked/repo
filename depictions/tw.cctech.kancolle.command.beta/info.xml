@@ -1,7 +1,7 @@
 <package>
 	<id>tw.cctech.kancolle.command</id>
-	<name>iKanColleCommand CHT Version (Beta)</name>
-	<version>2.3Beta1</version>
+	<name>DONT INSTALL THIS PACKAGE</name>
+	<version>2.3Beta2</version>
 	<compatibility>
 		<firmware>
 			<miniOS>11.4</miniOS>
@@ -9,9 +9,9 @@
 	</compatibility>
 	<dependencies>
 	</dependencies>
-	<shortDescription>KanColle iOS Client Chinese Traditional Version, this beta version are only for developers.</shortDescription>
+	<shortDescription>Release 2.3 Early Beta, very unstable.</shortDescription>
 	<descriptionlist>
-		<description>KanColle iOS Client Chinese Traditional Version, this beta version are only for developers.</description>
+		<description>This is Release 2.3's early Beta, very unstable so you should install stable version.</description>
 	</descriptionlist>
 	<screenshots>		
 		<screenshot>
