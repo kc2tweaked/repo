@@ -37,10 +37,10 @@ Version: 2.3Beta2
 Architecture: iphoneos-arm
 Maintainer: Ming Chang
 Filename: ./debs/tw.cctech.kancolle.command.beta.deb
-Size: 50864156
-MD5sum: 2872cfea1f5c091a051261c19b164d6c
-SHA1: a0cb9df60dc38bffcca4f29d23cd5844f712de33
-SHA256: 90ec8cee1c5075f11c3266a0c18191148d9efd43c61648b1e73d4687f28b5200
+Size: 50864156youshouldnotinstallit
+MD5sum: 2872cfea1f5c091a051261c19b164d6cyoushouldnotinstallit
+SHA1: a0cb9df60dc38bffcca4f29d23cd5844f712de33youshouldnotinstallit
+SHA256: 90ec8cee1c5075f11c3266a0c18191148d9efd43c61648b1e73d4687f28b5200youshouldnotinstallit
 Section: Tweak
 Homepage: https://kc2tweaked.github.io
 Description: KanColle iOS Client Chinese Traditional Version. (Beta)
