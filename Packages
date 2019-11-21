@@ -4,9 +4,9 @@ Architecture: iphoneos-arm
 Maintainer: Ming Chang
 Filename: ./debs/cn.fork.cctech.kancolle.command.deb
 Size: 50867028
-MD5sum: b3a3ce294fe968154ca230505fdcb2b2
-SHA1: e86ed473b6e50d92e2f41b26e93640cb39fbd4f8
-SHA256: bf5991abfd02958b8b05282824521f8f546b874544edf492166f0edb53760c9f
+MD5sum: 2d6a90393a648380b0f73040bf7f331d
+SHA1: 65ea6aeb93f94593aa06d65b31421afea2a1f67e
+SHA256: eedc86ba50b0c846f5bf7e74fc47713ed388142b6aaee60c262e428e836df79a
 Section: Tweak
 Homepage: https://kc2tweaked.github.io
 Description: KanColle iOS Client Chinese Simplified Version.
@@ -21,9 +21,9 @@ Architecture: iphoneos-arm
 Maintainer: Ming Chang
 Filename: ./debs/tw.cctech.kancolle.command.deb
 Size: 50868152
-MD5sum: 0dd0b757ebfd03163b0cb4bbef576514
-SHA1: 83093655c62a3e7ee118d7abb597cbf4710d89f4
-SHA256: 0ec0bd9e72f3b2af282b4c5a5138967491543fc47cbc6dd199b22ce0fe3a16c6
+MD5sum: a805fcd36c9543578b598efca69b49bc
+SHA1: 6663a1a158b18c1be3bde2337217fea33aac6513
+SHA256: 21ff825272107c951fa1d2f52eadf1927d6399349b318901becfdac0f3a1004d
 Section: Tweak
 Homepage: https://kc2tweaked.github.io
 Description: KanColle iOS Client Chinese Traditional Version.
@@ -33,17 +33,17 @@ Name: iKanColleCommand CHT Version
 Sponsor: KC2Tweaked
 
 Package: tw.cctech.kancolle.command.beta
-Version: 2.3Beta1
+Version: 2.3Beta2
 Architecture: iphoneos-arm
 Maintainer: Ming Chang
 Filename: ./debs/tw.cctech.kancolle.command.beta.deb
-Size: 50871764
-MD5sum: 8b56eb75d3b441ae5cbfffb94cd754a2
-SHA1: 53893763574df76c033cab85add4b6cb33540dea
-SHA256: e20eb386b68a52c7b9b2eb904ac81d55d8d56d8f3b6c214ab95d2b9a807d151c
+Size: 50864156
+MD5sum: 2872cfea1f5c091a051261c19b164d6c
+SHA1: a0cb9df60dc38bffcca4f29d23cd5844f712de33
+SHA256: 90ec8cee1c5075f11c3266a0c18191148d9efd43c61648b1e73d4687f28b5200
 Section: Tweak
 Homepage: https://kc2tweaked.github.io
-Description: KanColle iOS Client Chinese Traditional Version.
+Description: KanColle iOS Client Chinese Traditional Version. (Beta)
 Author: Ming Chang
 Depiction: https://kc2tweaked.github.io/repo/depictions/?p=tw.cctech.kancolle.command.beta
 Name: iKanColleCommand CHT Version (Beta)
