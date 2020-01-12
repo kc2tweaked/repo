@@ -1,7 +1,7 @@
 <package>
 	<id>tw.cctech.kancolle.command</id>
-	<name>iKanColleCommand CHT Version</name>
-	<version>2.2</version>
+	<name>Remove this package ASAP</name>
+	<version>99999</version>
 	<compatibility>
 		<firmware>
 			<miniOS>11.4</miniOS>
@@ -9,9 +9,9 @@
 	</compatibility>
 	<dependencies>
 	</dependencies>
-	<shortDescription>KanColle iOS Client Chinese Traditional Version.</shortDescription>
+	<shortDescription>Install newer version.</shortDescription>
 	<descriptionlist>
-		<description>KanColle iOS Client Chinese Traditional Version.</description>
+		<description>New version exist, you should install newer version.</description>
 	</descriptionlist>
 	<screenshots>		
 		<screenshot>

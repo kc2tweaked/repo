@@ -1,0 +1,24 @@
+<package>
+	<id>tw.cctech.ikancollecmd</id>
+	<name>iKanColleCommand CHT Version</name>
+	<version>2.2.1</version>
+	<compatibility>
+		<firmware>
+			<miniOS>11.4</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+	</dependencies>
+	<shortDescription>KanColle iOS Client Chinese Traditional Version.</shortDescription>
+	<descriptionlist>
+		<description>KanColle iOS Client Chinese Traditional Version.</description>
+	</descriptionlist>
+	<screenshots>		
+		<screenshot>
+		</screenshot>		
+	</screenshots>
+	<changelog>
+	</changelog>
+	<links>
+	</links>
+</package>

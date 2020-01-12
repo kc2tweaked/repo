@@ -1,0 +1,24 @@
+<package>
+	<id>tw.cctech.ikancollecmd.beta</id>
+	<name>iKanColleCommand CHT Beta</name>
+	<version>2.3Beta2</version>
+	<compatibility>
+		<firmware>
+			<miniOS>11.4</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+	</dependencies>
+	<shortDescription>Beta Version</shortDescription>
+	<descriptionlist>
+		<description>Beta Version.</description>
+	</descriptionlist>
+	<screenshots>		
+		<screenshot>
+		</screenshot>		
+	</screenshots>
+	<changelog>
+	</changelog>
+	<links>
+	</links>
+</package>
