@@ -1,37 +1,3 @@
-Package: cn.fork.cctech.ikancollecmd
-Version: 2.2.1
-Architecture: iphoneos-arm
-Maintainer: Ming Chang
-Filename: ./debs/cn.fork.cctech.ikancollecmd.deb
-Size: 912
-MD5sum: b7101ff5c351ac90a6d2c4c3a6572608
-SHA1: 99ee6e1e831342cc5e391f78ab1e7aa6648b824e
-SHA256: 4cbbade74db9a4a43a8926282fc4accabe168155433040a2a6d792ed7220889c
-Section: Tweaks
-Homepage: https://kc2tweaked.github.io
-Description: KanColle iOS Client Chinese Simplified Version.
-Author: Ming Chang
-Depiction: https://kc2tweaked.github.io/repo/depictions/?p=cn.fork.cctech.ikancollecmd
-Name: iKanColleCommand CHS Version
-Sponsor: KC2Tweaked
-
-Package: cn.fork.cctech.kancolle.command
-Version: 99999
-Architecture: iphoneos-arm
-Maintainer: Ming Chang
-Filename: ./debs/cn.fork.cctech.kancolle.command.deb
-Size: 880
-MD5sum: 4b1264f460ebf776b0eaa107c8bd642d
-SHA1: 3e365b637320a0bf992518ab4d2048257f76bff2
-SHA256: fd600ea1c8b27c6f9ce3e3a39e23d841ae410e398ac3eed7fbb615ff2f80da85
-Section: Outdated
-Homepage: https://kc2tweaked.github.io
-Description: Please install newer version
-Author: Ming Chang
-Depiction: https://kc2tweaked.github.io/repo/depictions/?p=cn.fork.cctech.kancolle.command
-Name: Remove this package ASAP
-Sponsor: KC2Tweaked
-
 Package: en.cctech.ikancollecmd
 Version: 2.2.1
 Architecture: iphoneos-arm
@@ -81,22 +47,5 @@ Description: KanColle iOS Client Chinese Traditional Version. (Beta)
 Author: Ming Chang
 Depiction: https://kc2tweaked.github.io/repo/depictions/?p=tw.cctech.ikancollecmd.beta
 Name: iKanColleCommand CHT Version (Beta)
-Sponsor: KC2Tweaked
-
-Package: tw.cctech.kancolle.command
-Version: 99999
-Architecture: iphoneos-arm
-Maintainer: Ming Chang
-Filename: ./debs/tw.cctech.kancolle.command.deb
-Size: 900
-MD5sum: cf513a337f5d06aba2893bdd5ccbe015
-SHA1: c07a54d11563d0b9f1fe0dc1f7ac0689026f3c57
-SHA256: 038f5401d74ce94dc5ce2a5c9d0b5cf337f9facd7290bcddd579940608c0e7c4
-Section: Outdated
-Homepage: https://kc2tweaked.github.io
-Description: Please install newer version
-Author: Ming Chang
-Depiction: https://kc2tweaked.github.io/repo/depictions/?p=tw.cctech.kancolle.command
-Name: Remove this package ASAP
 Sponsor: KC2Tweaked
 
