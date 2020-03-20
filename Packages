@@ -36,11 +36,28 @@ Package: tw.cctech.ikancollecmd.beta
 Version: 2.3.1-1
 Architecture: iphoneos-arm
 Maintainer: Ming Chang
-Filename: ./debs/tw.cctech.ikancollecmd.beta.deb
+Filename: ./debs/tw.cctech.ikancollecmd.beta-1.deb
 Size: 1637060
 MD5sum: 6cedd36e8d7a03de200ace5983b23bc4
 SHA1: cb4001f4afb9c38da6475fb922d833d30a97f0fa
 SHA256: 17faef698035faef8552bb6878f12ce588f864d24db9ead84f889a091456166f
+Section: Tweaks
+Homepage: https://kc2tweaked.github.io
+Description: KanColle iOS Client Chinese Traditional Version. (Beta)
+Author: Ming Chang
+Depiction: https://kc2tweaked.github.io/repo/depictions/?p=tw.cctech.ikancollecmd.beta
+Name: iKanColleCommand CHT Version (Beta)
+Sponsor: KC2Tweaked
+
+Package: tw.cctech.ikancollecmd.beta
+Version: 2.3.1-2
+Architecture: iphoneos-arm
+Maintainer: Ming Chang
+Filename: ./debs/tw.cctech.ikancollecmd.beta-2.deb
+Size: 1637172
+MD5sum: 1ec9180d05cb7820eba9b996e64c70d7
+SHA1: ea2fb38ee61663806dd9b045820948ea902c533e
+SHA256: 83036c5c946b127131e57fe1935358871989129c9a7dd83010f246c7b8fef25e
 Section: Tweaks
 Homepage: https://kc2tweaked.github.io
 Description: KanColle iOS Client Chinese Traditional Version. (Beta)
