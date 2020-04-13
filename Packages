@@ -16,14 +16,14 @@ Name: iKanColleCommand ENG Version
 Sponsor: KC2Tweaked
 
 Package: tw.cctech.ikancollecmd
-Version: 2.3
+Version: 2.3.1
 Architecture: iphoneos-arm
 Maintainer: Ming Chang
 Filename: ./debs/tw.cctech.ikancollecmd.deb
-Size: 1636768
-MD5sum: 021c23576849a99db9b490d694eaab5e
-SHA1: 54ec9044f2b47fbd4b6f5742ba24803e987e9a3f
-SHA256: fac5e128021a889dd4a993d7d08b36cd0036f75947b5c63025cae2fc63f261ab
+Size: 1621500
+MD5sum: cbfe65c75f08d1848e1b49a088dba339
+SHA1: 090116274cfe94aed932af4f04f744f069a2a1e6
+SHA256: cdb65f1773b722adeb8911a7f96889a2d104f679d0681282129a149fad33b670
 Section: Tweaks
 Homepage: https://kc2tweaked.github.io
 Description: KanColle iOS Client Chinese Traditional Version.
