@@ -5,10 +5,10 @@ Maintainer: Ming Chang
 Depends: net.angelxwind.appsyncunified, com.linusyang.appinst, zip, unzip, ldid
 Conflicts: tw.cctech.ikancollecmd
 Filename: ./debs/tw.cctech.ikancollecmd.beta.deb
-Size: 2391828
-MD5sum: c15750e689a600cd6edad4b68c15a659
-SHA1: f856adcfc7dbe450d10be30765a22dc02e1ec103
-SHA256: cf606728730307d9d098dd5fd9e03a69b9b6acb97abd7b0a5be77e96615103de
+Size: 2391920
+MD5sum: 37e470dc20d05e7e2e29fdf802d3bbe6
+SHA1: c92c78ec88d9995d667f0b54968e5e678d1e1db1
+SHA256: 07bfd1cfe6cd85262a2fccad3d34b515450b185cc00a83502122c411a6828362
 Section: Tweaks
 Homepage: https://kc2tweaked.github.io
 Description: KanColle iOS Client Chinese Traditional Version. (Beta)
