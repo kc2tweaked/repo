@@ -16,21 +16,40 @@ Name: iKanColleCommand ENG Version
 Sponsor: KC2Tweaked
 
 Package: tw.cctech.ikancollecmd
-Version: 2.4.1
+Version: 2.5
 Architecture: iphoneos-arm
 Maintainer: Ming Chang
 Depends: net.angelxwind.appsyncunified, com.linusyang.appinst, zip, unzip, ldid
-Conflicts: tw.cctech.ikancollecmd.beta
+Conflicts: tw.cctech.ikancollecmd.beta, tw.cctech.ikancollecmd.bigger
 Filename: ./debs/tw.cctech.ikancollecmd.deb
-Size: 2002696
-MD5sum: e99fe38de1786159b9c932120acca429
-SHA1: 1be36f60c3e7aef95214ffbb2a9deb8765c4c4a3
-SHA256: 92d944fca92c69d8873e04e029702603388a464ae4e1ce9c723fbf28e36b8cf6
+Size: 2107384
+MD5sum: 42ff71f7f399d8c298c6545c5ee8f4a9
+SHA1: f488812504cc4fe78f20e8cff076a2b142ad95d6
+SHA256: 6c7688ad8666e44a57b878f8bcd52b0cbd936652fa65c5761194d8d4217f0819
 Section: Tweaks
 Homepage: https://kc2tweaked.github.io
-Description: KanColle iOS Client Chinese Traditional Version.
+Description: This version is for iOS 13 only.
 Author: Ming Chang
 Depiction: https://kc2tweaked.github.io/repo/depictions/?p=tw.cctech.ikancollecmd
-Name: iKanColleCommand CHT Version
+Name: iKanColleCommand CHT Version (iOS 13)
+Sponsor: KC2Tweaked
+
+Package: tw.cctech.ikancollecmd.bigger
+Version: 2.5
+Architecture: iphoneos-arm
+Maintainer: Ming Chang
+Depends: net.angelxwind.appsyncunified, com.linusyang.appinst, zip, unzip, ldid
+Conflicts: tw.cctech.ikancollecmd.beta, tw.cctech.ikancollecmd
+Filename: ./debs/tw.cctech.ikancollecmd.bigger.deb
+Size: 14624044
+MD5sum: 9295f95dca063d0230d6fec9bfca4e10
+SHA1: d02f2df0ccb5459181db329cd483a600719cf5f7
+SHA256: c599bc9cf96983ea7db3c66fae22909eb085fe8f3af431747fcebbfeca6704b6
+Section: Tweaks
+Homepage: https://kc2tweaked.github.io
+Description: This version is for iOS 12 and below.
+Author: Ming Chang
+Depiction: https://kc2tweaked.github.io/repo/depictions/?p=tw.cctech.ikancollecmd.bigger
+Name: iKanColleCommand CHT Version (iOS 12 and Below)
 Sponsor: KC2Tweaked
 

@@ -1,0 +1,26 @@
+<package>
+	<id>tw.cctech.ikancollecmd.bigger</id>
+	<name>iKanColleCommand CHT Version (iOS 12 and Below)</name>
+	<version>2.5</version>
+	<compatibility>
+		<firmware>
+			<miniOS>11.4</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		net.angelxwind.appsyncunified, com.linusyang.appinst
+	</dependencies>
+	<shortDescription>KanColle iOS Client Chinese Traditional Version.</shortDescription>
+	<descriptionlist>
+		<description>KanColle iOS Client Chinese Traditional Version. Add https://cydia.akemi.ai/ to your Package Manager before you install this App.
+</description>
+	</descriptionlist>
+	<screenshots>		
+		<screenshot>
+		</screenshot>		
+	</screenshots>
+	<changelog>
+	</changelog>
+	<links>
+	</links>
+</package>
