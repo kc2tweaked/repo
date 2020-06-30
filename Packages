@@ -53,3 +53,22 @@ Depiction: https://kc2tweaked.github.io/repo/depictions/?p=tw.cctech.ikancollecm
 Name: iKanColleCommand CHT Version (iOS 12 and Below)
 Sponsor: KC2Tweaked
 
+Package: tw.cctech.ikancollecmd.noassist
+Version: 2.5-NoAssist
+Architecture: iphoneos-arm
+Maintainer: Ming Chang
+Depends: net.angelxwind.appsyncunified, com.linusyang.appinst, zip, unzip, ldid
+Conflicts: tw.cctech.ikancollecmd.beta, tw.cctech.ikancollecmd, tw.cctech.ikancollecmd.bigger
+Filename: ./debs/tw.cctech.ikancollecmd.noassist.deb
+Size: 14576696
+MD5sum: b04b0867182d001c8ba51f1a81baa5e8
+SHA1: a33d8cd06417d932d09c17c54f036f7e270861de
+SHA256: f7a14319728151719dfadea466b5d21417e942e2fd70217bd5e5e7ac9de3272b
+Section: Tweaks
+Homepage: https://kc2tweaked.github.io
+Description: No Assistant Version
+Author: Ming Chang
+Depiction: https://kc2tweaked.github.io/repo/depictions/?p=tw.cctech.ikancollecmd.noassist
+Name: iKanColleCommand CHT Version (No Assistant)
+Sponsor: KC2Tweaked
+
