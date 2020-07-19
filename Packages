@@ -22,10 +22,10 @@ Maintainer: Ming Chang
 Depends: net.angelxwind.appsyncunified, com.linusyang.appinst, zip, unzip, ldid
 Conflicts: tw.cctech.ikancollecmd.beta, tw.cctech.ikancollecmd.bigger
 Filename: ./debs/tw.cctech.ikancollecmd.deb
-Size: 1819884
-MD5sum: 3cfc83bf5b6356bd75c5b6035ca8750e
-SHA1: 21a7f22ec68ff89a4f90d61851a52a7595686bdf
-SHA256: 824472e85b45c6f81ae1beea2ddb15fba8bf3b79eb2ef0fc43947a5b2b094504
+Size: 1819724
+MD5sum: 5c092c8bc8b05d987bbc19080786e83d
+SHA1: 00420b84d60391b3aaee8783e3663b7d2f024cc7
+SHA256: 9207dc5cbb97fa6c53bfa898817852fea772d49ce55e9de9ea086209bdda2251
 Section: Tweaks
 Homepage: https://kc2tweaked.github.io
 Description: This version is for iOS 13 only.
@@ -41,10 +41,10 @@ Maintainer: Ming Chang
 Depends: net.angelxwind.appsyncunified, com.linusyang.appinst, zip, unzip, ldid
 Conflicts: tw.cctech.ikancollecmd.beta, tw.cctech.ikancollecmd
 Filename: ./debs/tw.cctech.ikancollecmd.bigger.deb
-Size: 14340424
-MD5sum: 8406b1b48c1400ca777c9c9df45800c8
-SHA1: 98a3dfbeabee51a405792bc5317b78ff201a7552
-SHA256: 20319cc5f452a0a553cff4a87c63b9556c9b8e945a20a4568b03789453b5c5c9
+Size: 14336304
+MD5sum: 2aa6c962ec95b04b71e5572d4c0df3db
+SHA1: db9555a31ea029c9ca4ac37b393d4c43aaca6d79
+SHA256: b2a6a9971102a2d9dae58176ece1b508edd95d97527e5c09c814f3457e3f0982
 Section: Tweaks
 Homepage: https://kc2tweaked.github.io
 Description: This version is for iOS 12 and below.
