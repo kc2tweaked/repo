@@ -16,16 +16,16 @@ Name: iKanColleCommand ENG Version
 Sponsor: KC2Tweaked
 
 Package: tw.cctech.ikancollecmd
-Version: 2.5
+Version: 2.5.1
 Architecture: iphoneos-arm
 Maintainer: Ming Chang
 Depends: net.angelxwind.appsyncunified, com.linusyang.appinst, zip, unzip, ldid
 Conflicts: tw.cctech.ikancollecmd.beta, tw.cctech.ikancollecmd.bigger
 Filename: ./debs/tw.cctech.ikancollecmd.deb
-Size: 2107384
-MD5sum: 42ff71f7f399d8c298c6545c5ee8f4a9
-SHA1: f488812504cc4fe78f20e8cff076a2b142ad95d6
-SHA256: 6c7688ad8666e44a57b878f8bcd52b0cbd936652fa65c5761194d8d4217f0819
+Size: 1819884
+MD5sum: 3cfc83bf5b6356bd75c5b6035ca8750e
+SHA1: 21a7f22ec68ff89a4f90d61851a52a7595686bdf
+SHA256: 824472e85b45c6f81ae1beea2ddb15fba8bf3b79eb2ef0fc43947a5b2b094504
 Section: Tweaks
 Homepage: https://kc2tweaked.github.io
 Description: This version is for iOS 13 only.
@@ -35,40 +35,21 @@ Name: iKanColleCommand CHT Version (iOS 13)
 Sponsor: KC2Tweaked
 
 Package: tw.cctech.ikancollecmd.bigger
-Version: 2.5
+Version: 2.5.1
 Architecture: iphoneos-arm
 Maintainer: Ming Chang
 Depends: net.angelxwind.appsyncunified, com.linusyang.appinst, zip, unzip, ldid
 Conflicts: tw.cctech.ikancollecmd.beta, tw.cctech.ikancollecmd
 Filename: ./debs/tw.cctech.ikancollecmd.bigger.deb
-Size: 14624044
-MD5sum: 9295f95dca063d0230d6fec9bfca4e10
-SHA1: d02f2df0ccb5459181db329cd483a600719cf5f7
-SHA256: c599bc9cf96983ea7db3c66fae22909eb085fe8f3af431747fcebbfeca6704b6
+Size: 14340424
+MD5sum: 8406b1b48c1400ca777c9c9df45800c8
+SHA1: 98a3dfbeabee51a405792bc5317b78ff201a7552
+SHA256: 20319cc5f452a0a553cff4a87c63b9556c9b8e945a20a4568b03789453b5c5c9
 Section: Tweaks
 Homepage: https://kc2tweaked.github.io
 Description: This version is for iOS 12 and below.
 Author: Ming Chang
 Depiction: https://kc2tweaked.github.io/repo/depictions/?p=tw.cctech.ikancollecmd.bigger
 Name: iKanColleCommand CHT Version (iOS 12 and Below)
-Sponsor: KC2Tweaked
-
-Package: tw.cctech.ikancollecmd.noassist
-Version: 2.5-NoAssist
-Architecture: iphoneos-arm
-Maintainer: Ming Chang
-Depends: net.angelxwind.appsyncunified, com.linusyang.appinst, zip, unzip, ldid
-Conflicts: tw.cctech.ikancollecmd.beta, tw.cctech.ikancollecmd, tw.cctech.ikancollecmd.bigger
-Filename: ./debs/tw.cctech.ikancollecmd.noassist.deb
-Size: 14576696
-MD5sum: b04b0867182d001c8ba51f1a81baa5e8
-SHA1: a33d8cd06417d932d09c17c54f036f7e270861de
-SHA256: f7a14319728151719dfadea466b5d21417e942e2fd70217bd5e5e7ac9de3272b
-Section: Tweaks
-Homepage: https://kc2tweaked.github.io
-Description: No Assistant Version
-Author: Ming Chang
-Depiction: https://kc2tweaked.github.io/repo/depictions/?p=tw.cctech.ikancollecmd.noassist
-Name: iKanColleCommand CHT Version (No Assistant)
 Sponsor: KC2Tweaked
 
