@@ -1,14 +1,14 @@
 Package: tw.mingchang.ikancollecmd
-Version: 2.5.2
+Version: 2.6
 Architecture: iphoneos-arm
 Maintainer: Ming Chang
 Depends: net.angelxwind.appsyncunified, com.linusyang.appinst, zip, unzip, ldid
 Conflicts: tw.cctech.ikancollecmd.beta, tw.cctech.ikancollecmd.bigger, tw.cctech.ikancollecmd
 Filename: ./debs/tw.mingchang.ikancollecmd.deb
-Size: 15313616
-MD5sum: 109476c3f4e84ead9a23780f8e55b5e3
-SHA1: fa84e3c28dc3f59f9e52ac2cd678c1154b2e051a
-SHA256: fafc0d024eced55e5d79d969a5e0ca700382757ae357a2de3c0d0d65b4ed7564
+Size: 15318596
+MD5sum: d77df016be7b1bc2733cd9bbebcaee68
+SHA1: ed48c84f33e458dfe7a4b18afe81b80f1bb779b8
+SHA256: 0f707060d49381ef938471c9a42e23c3a121d62bc2c4feca9962866b80640b79
 Section: Tweaks
 Homepage: https://kc2tweaked.github.io
 Description: A iOS client for KanColle.
